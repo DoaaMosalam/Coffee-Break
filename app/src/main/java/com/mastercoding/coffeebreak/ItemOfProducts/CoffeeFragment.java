@@ -32,20 +32,20 @@ public class CoffeeFragment extends Fragment{
         // Required empty public constructor
     }
 
-    @Override
-    public void onAttach(@NonNull Context context) {
-        super.onAttach(context);
-        if (context instanceof ItemAdapter.OnFragmentClickListener)
-            listener = (ItemAdapter.OnFragmentClickListener) context;
-        else
-            throw new ClassCastException("Your activity does not implements on fragment");
-    }
-
-    @Override
-    public void onDetach() {
-        super.onDetach();
-        listener = null;
-    }
+//    @Override
+//    public void onAttach(@NonNull Context context) {
+//        super.onAttach(context);
+//        if (context instanceof ItemAdapter.OnFragmentClickListener)
+//            listener = (ItemAdapter.OnFragmentClickListener) context;
+//        else
+//            throw new ClassCastException("Your activity does not implements on fragment");
+//    }
+//
+//    @Override
+//    public void onDetach() {
+//        super.onDetach();
+//        listener = null;
+//    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
