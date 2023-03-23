@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!--    this Color Button front main page.-->
+    <color name="welcomeMsg">#F2D096</color>
+    <color name="brown">#614124</color>
+    <color name="DarkBrown">#3E311B</color>
+    <color name="grey">#6C6C6C</color>
+    <color name="sin">#E8C07D</color>
+    <color name="blue">#45A7B8</color>
+    <color name="lightGrey">#DFDADA</color>
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".main.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_welcome"
+        style="@style/style_frontPage" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/splashscreen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="169dp"
+        android:background="@drawable/desgin_back_frontpage"
+        android:foregroundGravity="center"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"
+        app:lottie_rawRes="@raw/coffee_love"
+        app:lottie_url="REPLACE_JSON_URL" />
+
+
+</RelativeLayout>

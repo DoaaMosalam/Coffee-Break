@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/btn_facebook_google.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/btn_register_now.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/btn_start.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/circle_button.xml" value="0.1345" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/desgin_back_frontpage.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/desgin_register.xml" value="0.1345" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/design_forgetten_password.xml" value="0.1345" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/design_tab.xml" value="0.1345" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/desine_edit_login.xml" value="0.131" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/shape_btnstart.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/style.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/drawable/tab_indicator.xml" value="0.1345" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout-v28/activity_main.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout-v28/item_product.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_create_account.xml" value="0.1" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_log.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_login_app.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_loginand_register.xml" value="0.13796296296296295" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_products.xml" value="0.22" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_register.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/activity_sign_inand_sign_out.xml" value="0.1" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_cocktail.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_coffee.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_drinks.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_espresso.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_hot.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_hot__drink_.xml" value="0.1" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_ice__coffeeragment.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_item.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_items_.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_juice.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_login.xml" value="0.16" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_product.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/fragment_register.xml" value="0.18" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/item_product.xml" value="0.22" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/item_products.xml" value="0.25" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/layout/product.xml" value="0.17760416666666667" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/mipmap-anydpi-v26/imagelog.xml" value="0.186" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break(UI_Desgin)/app/src/main/res/mipmap-anydpi-v26/logApp.xml" value="0.1285" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/drawable/btn_start.xml" value="0.1645" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/drawable/circle_button.xml" value="0.1645" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/drawable/desgin.xml" value="0.1645" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/drawable/design_forgetten_password.xml" value="0.1645" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/drawable/tab_indicator.xml" value="0.1645" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/activity_create_account.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/activity_products.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_cocktail.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_coffee.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_espresso.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_hot.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_ice__coffeeragment.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_juice.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_login.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_register.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/fragment_zabado.xml" value="0.18229166666666666" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/layout/item_products.xml" value="0.33" />
+        <entry key="..\:/Coders Programming/Android/My Own Projects/Coffee Break/app/src/main/res/menu/main_menu.xml" value="0.18229166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

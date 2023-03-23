@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CoffeeBreak</string>
+    <!--    String of Message in front page welcome.-->
+    <string name="get_started">Get Started</string>
+    <string name="welcome">It\'s Coffee Time</string>
+    <string name="already_n_have_an_n_account">Already\n have an \n Account?</string>
+    <string name="btn_login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="or_use_your_email_account">or use your email account</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="create_new_account">Create New Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_name">First Name</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_choise_your_order">Click here to choise your order</string>
+    <string name="description">Description</string>
+    <string name="price">price</string>
+    <string name="add_to_card">Add To Card</string>
+    <string name="logout">LogOut</string>
+
+</resources>

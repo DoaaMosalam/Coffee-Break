@@ -1,0 +1,149 @@
+<androidx.constraintlayout.widget.ConstraintLayout   xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".CreateAccount.RegisterFragment"
+    android:background="@color/welcomeMsg">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardBackgroundColor="@color/welcomeMsg"
+            app:cardCornerRadius="10dp"
+            >
+
+         <ImageView
+                android:id="@+id/register_image"
+             android:layout_width="425dp"
+             android:layout_height="343dp"
+                android:src="@drawable/image" />
+
+            <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:cardCornerRadius="50dp"
+            android:layout_marginTop="250dp"
+            >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="483dp"
+                    android:orientation="vertical">
+
+                    <EditText
+                        android:id="@+id/edit_PersonName"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/person_icon"
+                        android:ems="10"
+                        android:hint="@string/first_name"
+                        android:inputType="textPersonName"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                        android:visibility="visible" />
+
+                    <EditText
+                        android:id="@+id/edit_lastName"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/person_icon"
+                        android:ems="10"
+                        android:inputType="textPersonName"
+                        android:hint="@string/last_name"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                      />
+
+                    <EditText
+                        android:id="@+id/edit_phoneNumber"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/local_phone_icon"
+                        android:ems="12"
+                        android:hint="@string/phone_number"
+                        android:inputType="number"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                        />
+
+                    <EditText
+                        android:id="@+id/edit_resetEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/email_icon"
+                        android:ems="20"
+                        android:inputType="textEmailAddress"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                       android:hint="@string/email" />
+
+                    <EditText
+                        android:id="@+id/edit_ResetPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/lock_icon"
+                        android:ems="100"
+                        android:inputType="textPassword"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                        android:hint="@string/password"
+                        />
+
+                    <EditText
+                        android:id="@+id/edit_confirmPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="50dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:layout_marginBottom="20dp"
+                        android:background="@drawable/desgin"
+                        android:drawableStart="@drawable/lock_icon"
+                        android:ems="100"
+                        android:inputType="textPassword"
+                        android:paddingStart="15dp"
+                        android:paddingEnd="15dp"
+                       android:hint="@string/confirm_password" />
+
+                    <Button
+                        android:id="@+id/btn_register"
+                        android:layout_width="256dp"
+                        android:layout_height="46dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/desgin_back_frontpage"
+                        android:text="@string/register"
+                        android:textAllCaps="false"
+                        android:textColor="@color/DarkBrown"
+                        android:textSize="18sp" />
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+    </androidx.cardview.widget.CardView>
+</ScrollView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
